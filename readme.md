@@ -60,7 +60,4 @@ https://docs.docker.com/engine/install/linux-postinstall/
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-`curl --header "Content-Type: application/json" \
-   --request POST \
-   --data '{"Url":"https://i.imgur.com/gxmRseR.jpg"}' \
-   http://localhost:5000/captcha`
+`curl  -X POST 'http://localhost:5000/captcha' \--header 'Content-Type: application/json' --data '{"Url":"https://i.imgur.com/gxmRseR.jpg"}'`
