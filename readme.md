@@ -52,8 +52,11 @@ Dependencies are handled by docker. port 5000 is used by default as configured i
 
 ### Prerequisites
 
-Install docker compose
+* Install docker compose
 https://docs.docker.com/compose/install/
+* If on linux server or non root user, this might be needed 
+See the below 
+https://docs.docker.com/engine/install/linux-postinstall/
 
 <!-- USAGE EXAMPLES -->
 ## Usage
