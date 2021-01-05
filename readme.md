@@ -6,7 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-  <h3 align="center">Captcha solver</h3>
+  <h3 align="left">Captcha solver</h3>
 
   <p align="left">
      Takes in a url with image of alphanumberic captcha and returns solved captcha text 
