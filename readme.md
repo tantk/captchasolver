@@ -8,8 +8,8 @@
 -->
   <h3 align="center">Captcha solver</h3>
 
-  <p align="center">
-     Takes in a url with alphanumberic captcha  
+  <p align="left">
+     Takes in a url with image of alphanumberic captcha and returns solved captcha text 
   </p>
 </p>
 <!-- TABLE OF CONTENTS -->
